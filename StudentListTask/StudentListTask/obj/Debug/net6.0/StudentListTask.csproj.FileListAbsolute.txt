@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\bin\Debug\net6.0\StudentListTask.exe
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\bin\Debug\net6.0\StudentListTask.deps.json
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\bin\Debug\net6.0\StudentListTask.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\bin\Debug\net6.0\StudentListTask.dll
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\bin\Debug\net6.0\StudentListTask.pdb
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.dll
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\refint\StudentListTask.dll
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.pdb
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\StudentListTask.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\Attributes\StudentListTask\StudentListTask\obj\Debug\net6.0\ref\StudentListTask.dll
